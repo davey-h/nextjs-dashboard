@@ -1,4 +1,9 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard
+
+***
+Latest build:
+https://nextjs-dashboard-theta-ashy-69.vercel.app/dashboard
+***
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
